@@ -166,7 +166,8 @@ Section entropy features rank #4 and #7 in feature importance, confirming their 
 
 ## Visualizations
 
-![Entropy Distribution Analysis](data/raw/ember2018/section_entropy_analysis.png)
+<img width="2247" height="1583" alt="image" src="https://github.com/user-attachments/assets/ab8a10c8-b394-4f8d-8556-0d0d50ae7452" />
+
 
 *Section entropy distributions showing clear separation between packed and unpacked samples, with malware trending toward higher entropy values.*
 
