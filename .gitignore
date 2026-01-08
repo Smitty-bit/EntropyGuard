@@ -1,0 +1,29 @@
+# Data files (too large for git)
+data/raw/ember2018/*.jsonl
+data/raw/ember2018/*.tar.bz2
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
