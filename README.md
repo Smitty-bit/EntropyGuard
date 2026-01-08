@@ -225,7 +225,7 @@ MIT License
 ## Author
 
 **Smitty** - Cybersecurity student and researcher  
-[GitHub](https://github.com/Smitty-bit) |
+[GitHub](https://github.com/Smitty-bit) 
 
 ---
 
